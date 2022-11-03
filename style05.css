@@ -1,0 +1,20 @@
+img{width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 110px}
+
+    input{width: 400px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+border-radius: 20px;
+    }
+
+  div{ margin-left: 650px;
+margin-top: 30px;}
+
+button{ padding: 2px;
+background-color: gainsboro;
+border-radius: 2px;}
+.dugmence{ width: 10px;}
